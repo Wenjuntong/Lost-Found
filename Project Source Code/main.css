@@ -1,0 +1,51 @@
+.bgimg{
+    background-image:url("bg.jpg");
+    background-attachment: local;
+}
+
+button:active{
+    transform: scale(1.1);
+}
+
+.background{
+    background-color: rgb(255,255,255,0.3);
+}
+
+.admin{
+    background-color: rgb(136,171,218);
+}
+
+.card-registration .select-input.form-control[readonly]:not([disabled]) {
+    font-size: 1rem;
+    line-height: 2.15;
+    padding-left: .75em;
+    padding-right: .75em;
+}
+
+.card-registration .select-arrow {
+    top: 13px;
+}
+
+.change{
+    height:500px;
+    width:auto;
+}
+
+.button{
+    background-color: rgb(136,171,218,0.3);
+    border:0;
+    border-radius: 14px;
+}
+
+.button1{
+    background-color: rgb(255,255,255,0.3);
+    border:0;
+    border-radius: 14px;
+}
+
+#container{
+    min-height: 600px;
+    max-width: 80%;
+    margin-top: 40px;
+    margin-left: 10%;
+}
